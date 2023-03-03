@@ -1,0 +1,185 @@
+.Admin {
+  position: relative;
+width: 1600px;
+height: 1024px;
+
+background: #131313;
+}
+
+.Afflt {
+  position: absolute;
+width: 156px;
+height: 84px;
+left: 409px;
+top: 124px;
+
+font-family: SinhalaMN;
+  font-size: 72px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+display: flex;
+align-items: center;
+
+color: #FD013D;
+}
+.main-div{
+position: absolute;
+width: 620px;
+height: 429px;
+left: 177px;
+top: 303px;
+}
+.How-are-you-planning-to-use-Afflt {
+  position: absolute;
+width: 553px;
+height: 48px;
+left: 207px;
+top: 303px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+
+.Rectangle-24 {
+position: absolute;
+width: 294px;
+height: 223px;
+left: 177px;
+top: 408px;
+border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-image-source: linear-gradient(177deg, #cb284f 45%, rgba(203, 40, 79, 0) 112%);
+  border-image-slice: 1;
+}
+.Vector{
+  position: absolute;
+  width: 50px;
+  height: 72px;
+  left: 312px;
+  right: 1264px;
+  top: 481.67px;
+  bottom: 529px;
+  
+  color: #FFFFFF; 
+  
+}
+
+.AdminBT{position: absolute;
+left: 17.74%;
+right: 70.16%;
+top: 47.65%;
+bottom: 42.66%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.Researchers{
+  position: absolute;
+left: 17.77%;
+right: 69.19%;
+top: 48.74%;
+bottom: 36.36%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+
+.Rectangle-25 {
+  position: absolute;
+  width: 294px;
+  height: 223px;
+  left: 503px;
+  top: 408px;
+border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-image-source: linear-gradient(167deg, #646464 40%, rgba(81, 72, 74, 0) 151%);
+  border-image-slice: 1;
+}
+
+
+.Rectangle-26 {
+  position: absolute;
+  width: 620px;
+  height: 67px;
+  left: 177px;
+  top: 664px;
+  
+  background: #FF013D;
+  border-radius: 30px;
+}
+.Log-In{
+  position: absolute;
+left: 45.97%;
+right: 45.32%;
+top: 11.04%;
+bottom: 4.66%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.Already-have-an-account-Sign-in-here{
+
+position: absolute;
+width: 273px;
+height: 21px;
+left: 350px;
+top: 779px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
